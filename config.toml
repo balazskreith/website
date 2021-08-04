@@ -9,7 +9,7 @@ enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
 copyright = "&copy; Copyright 2021, Balazs Kreith"
-
+publishDir="./docs/"
 # Main menu items
 [menu]
   [[menu.main]]
